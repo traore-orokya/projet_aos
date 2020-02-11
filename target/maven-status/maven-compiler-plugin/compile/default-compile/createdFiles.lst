@@ -1,0 +1,11 @@
+asr/aos/app/repository/PersonneRepository.class
+asr/aos/app/services/EvenementService.class
+asr/aos/app/entity/Evenement.class
+asr/aos/app/repository/GestionEvenement.class
+asr/aos/app/repository/EvenementRepository.class
+asr/aos/app/KyadaCalendar1Application.class
+asr/aos/app/services/InvitationService.class
+asr/aos/app/entity/Invitation.class
+asr/aos/app/entity/Personne.class
+asr/aos/app/services/PersonneService.class
+asr/aos/app/repository/InvitationRepository.class
